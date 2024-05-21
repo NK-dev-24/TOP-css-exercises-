@@ -1,0 +1,19 @@
+.ogclass {
+    background-color: rgb(250, 136, 136);
+    font-family: Verdana, "Dejavu sans", sans-serif;
+}
+
+.ogclass.mod{
+    font-size: 24px;
+}
+
+#oneid{
+    color: rgb(20, 20, 239);
+    font-size: 36px;
+}
+
+#twoid{
+    background-color: rgb(77, 235, 77) ;
+    font-size: 24px;
+    font-weight: bold;
+}
